@@ -1,0 +1,177 @@
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe.config
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.pdb
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Properties.Resources.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.csproj.GenerateResource.Cache
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.exe
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.pdb
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Loading.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Login.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Admin.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.DashBoard.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.User.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe.config
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.exe
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.pdb
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.pdb
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Admin.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Loading.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Login.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Properties.Resources.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.User.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.DashBoard.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.csproj.GenerateResource.Cache
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\bin\Debug\MetroFramework.dll
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.AddUsers.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.Online.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.TodayOnline.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.aboutUs.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.aboutUs.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.AddUsers.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.Online.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.TodayOnline.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.calendar.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.csprojResolveAssemblyReference.cache
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.AddLeave.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ViewLeave.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.AddLeave.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.calendar.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ViewLeave.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ChangePassword.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ChangePassword.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.CustomDialog.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.DialogWrong.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.CustomDialog.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.DialogWrong.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.csprojResolveAssemblyReference.cache
+H:\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe.config
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.exe
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.pdb
+H:\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe
+H:\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.pdb
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.csprojResolveAssemblyReference.cache
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Admin.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.AddLeave.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ChangePassword.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.CustomDialog.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.DialogWrong.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Loading.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Login.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Properties.Resources.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.User.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.aboutUs.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.AddUsers.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.calendar.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.DashBoard.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.Online.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.TodayOnline.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.UserDetails.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ViewLeave.resources
+H:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.csproj.GenerateResource.Cache
+G:\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe.config
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.exe
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.pdb
+G:\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe
+G:\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.pdb
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.csprojResolveAssemblyReference.cache
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Admin.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.AddLeave.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ChangePassword.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.CustomDialog.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.DialogWrong.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Loading.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Login.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Properties.Resources.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.User.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.aboutUs.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.AddUsers.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.calendar.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.DashBoard.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.Online.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.TodayOnline.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.UserDetails.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ViewLeave.resources
+G:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.csproj.GenerateResource.Cache
+E:\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe.config
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.exe
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.pdb
+E:\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe
+E:\Leaving Assistant1\Leaving Assistant1\bin\Debug\Leaving Assistant1.pdb
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.csprojResolveAssemblyReference.cache
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Admin.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.AddLeave.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ChangePassword.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.CustomDialog.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.DialogWrong.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Loading.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Login.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Properties.Resources.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.User.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.aboutUs.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.AddUsers.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.calendar.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.DashBoard.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.Online.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.TodayOnline.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ViewLeave.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving Assistant1.csproj.GenerateResource.Cache
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ComingRequest.resources
+E:\2015ICT68 Theory Notes & Practicals\Help To Create\project\Leaving Assistant1\Leaving Assistant1\bin\Debug\MySql.Data.dll
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Alert.resources
+C:\Users\THARIDU\Documents\Visual Studio 2013\Projects\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ComingRequest.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Alert.resources
+E:\Leaving Assistant1\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ComingRequest.resources
+E:\kure\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe.config
+E:\kure\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving Assistant1.exe
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe.config
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving Assistant1.exe
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving Assistant1.csprojResolveAssemblyReference.cache
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Admin.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.AddLeave.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Alert.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ChangePassword.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ComingRequest.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.CustomDialog.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.DialogWrong.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Loading.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Login.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Properties.Resources.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.User.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.aboutUs.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.AddUsers.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.calendar.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.DashBoard.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.Online.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.TodayOnline.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ViewLeave.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving Assistant1.csproj.GenerateResource.Cache
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe.config
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving Assistant1.exe
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving Assistant1.csprojResolveAssemblyReference.cache
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Admin.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.AddLeave.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Alert.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ChangePassword.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ComingRequest.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.CustomDialog.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.DialogWrong.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Loading.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Login.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.Properties.Resources.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.User.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.aboutUs.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.AddUsers.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.calendar.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.DashBoard.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.Online.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.UserControls.TodayOnline.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving_Assistant1.ViewLeave.resources
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving Assistant1.csproj.GenerateResource.Cache
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\bin\Debug\Leaving Assistant1.pdb
+F:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\Leave Assistent\Leaving Assistant\Leaving Assistant1\obj\Debug\Leaving Assistant1.pdb
+C:\Users\Tharidu\Documents\GitHub\Leaving-Assistant\Leaving Assistant1\bin\Debug\Leaving Assistant1.exe.config
+C:\Users\Tharidu\Documents\GitHub\Leaving-Assistant\Leaving Assistant1\obj\Debug\Leaving Assistant1.exe
+C:\Users\Tharidu\Documents\GitHub\Leaving-Assistant\Leaving Assistant1\obj\Debug\Leaving Assistant1.pdb
